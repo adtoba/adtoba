@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Adetoba
 
-## Welcome to my repo!!! 
+Welcome to my repo!!! 
 
-# I'm a mobile developer skilled in Flutter, Dart, Java & Nodejs(Express).
+I'm a mobile developer skilled in Flutter, Dart, Java & Nodejs(Express).
 
 Majorly working with Flutter
 
