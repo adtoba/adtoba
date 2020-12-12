@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Adetoba
 
-<!--
-**adtoba/adtoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my repo!!! 
 
-Here are some ideas to get you started:
+# I'm a mobile developer skilled in Flutter, Dart, Java & Nodejs(Express).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Majorly working with Flutter
+
+ 
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Flutter
+- 📫 How to reach me: adetoba53@gmail.com
+
