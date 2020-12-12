@@ -11,3 +11,5 @@ Majorly working with Flutter
 - 💬 Ask me about Flutter
 - 📫 How to reach me: adetoba53@gmail.com
 
+
+[![Adtoba's github stats](https://github-readme-stats.vercel.app/api?username=adtoba)](https://github.com/adtoba/github-readme-stats)
